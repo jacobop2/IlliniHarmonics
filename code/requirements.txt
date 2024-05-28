@@ -1,0 +1,6 @@
+vite
+bootstrap
+express
+nodemon -D
+mysql2
+cors
